@@ -1,5 +1,7 @@
 # Redis GEO Example App
 
+Edit
+
 Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](http://redisgeo.netcore.io)
